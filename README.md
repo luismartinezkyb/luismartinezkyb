@@ -1,5 +1,5 @@
 # 😄  About Me:
-- 💫I'm a fullstack developer proficient in both front-end and back-end development, with a strong understanding of software development principles, data structures, and algorithms. with experience in programming languages like Javascript, Typescript, PHP, Dart and expertise in frameworks like React, Nodejs, Laravel, NextJs and currently learning Sveltejs. Experienced with different TechStacks like: MERN, PERN, LARAVEL, NEXTJS, LARAVEL+REACT. <br>
+- 💫I'm a fullstack developer proficient in both front-end and back-end development, with a strong understanding of software development principles, data structures, and algorithms. with experience in programming languages like Javascript, Typescript, PHP, Dart and expertise in frameworks like React, Nodejs, NestJS, Laravel, NextJs and currently learning Sveltejs. Experienced with different TechStacks like: MERN, PERN, LARAVEL, NEXTJS, LARAVEL+REACT. <br>
 - 🔭 I'm currently working as a Fullstack Developer on Innova Business Technology<br>
 - 🤝 I'm Looking to collaborate on open source fullstack projects<br>
 - 🌱 I'm currently learning Nextjs and Nestjs<br>
@@ -26,7 +26,7 @@
 [![](https://visitcount.itsvg.in/api?id=luismartinezkyb&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/luismartinezkyb) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/luismartinezkyb) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
