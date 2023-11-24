@@ -1,5 +1,5 @@
 # 😄  About Me:
-🔭 I’m currently working as a Fullstack Developer in Unimex<br>👯 I’m looking to collaborate on open Source projects<br>🌱 I’m currently learning Angular and Goland<br>⚡ I'm a cloud enthusiast 
+🔭 I’m currently working as a Fullstack Developer at Unimex<br>👯 I’m looking to collaborate on open Source projects<br>🌱 I’m currently learning Angular and Goland<br>⚡ I'm a cloud enthusiast 
 
 
 ## 🌐 Socials:
