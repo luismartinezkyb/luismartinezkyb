@@ -1,5 +1,8 @@
 # 😄  About Me:
-🔭 I’m currently working as a Fullstack Developer at Unimex<br>👯 I’m looking to collaborate on open Source projects<br>🌱 I’m currently learning Angular and Goland<br>⚡ I'm a cloud enthusiast 
+⚡ Computer Systems Engineer, Software Developer with almost three years of experience working as a BACKEND and FRONTEND Developer(FULLSTACK), proeficient in programming languages like JavaScript, Typescript, PHP and Python, proactively on cloud services(AWS, FIREBASE, SUPABASE), with expertise in frameworks like ExpressJs(Nodejs), Nestjs(Typescript), Reactjs, Angular, Laravel 10.x(PHP) and Django REST(Python), experience working with SQL and NoSQL databases, always trying to apply all the best practices and principles(SOLID) into my code, passionate about learning and problem solver.
+🔭 I’m currently working as a Fullstack Developer at Universe Mexico (Unimex) <br>
+👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Angular and Golandm # Cloud & Devops enthusiast <br>
+
 
 
 ## 🌐 Socials:
